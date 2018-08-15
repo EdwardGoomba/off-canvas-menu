@@ -1,0 +1,12 @@
+{
+  "name": "off-canvas-menu",
+  "version": "1.0.0",
+  "description": "Off canvas menu",
+  "main": "index.html",
+  "author": "Edward Danilyuk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
