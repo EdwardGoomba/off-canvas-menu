@@ -38,6 +38,16 @@ a:focus {
  * =====================================
  */
 
+/* The canvas */
+.offsite-is-open .site-container {
+  transform: translateX(14rem);
+}
+
+/* The offsite canvas */
+.offsite-is-open .offsite-container {
+  transform: translateX(14rem);
+}
+
 /**
  * Containers
  * ----------
